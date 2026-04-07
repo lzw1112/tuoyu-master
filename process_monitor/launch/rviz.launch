@@ -1,0 +1,3 @@
+<launch>
+    <node name="tuoyu_ws" pkg="rviz" type="rviz" args="-d $(find process_monitor)/rviz/tuoyu.rviz -s $(find process_monitor)/icon/tuoyu.png"/>
+</launch>

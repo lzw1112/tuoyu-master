@@ -1,0 +1,9 @@
+difop_port: !<!> ""
+mac: !<!> dc:a6:32:f7:9c:94
+msop_port: !<!> ""
+frame_id: !<!> ""
+scan_end_angle: !<!> ""
+max_range: !<!> ""
+min_range: !<!> ""
+device_ip: !<!> ""
+scan_start_angle: !<!> ""

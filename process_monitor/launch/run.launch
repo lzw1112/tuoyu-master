@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch> 
+	<node pkg="process_monitor" type="process_monitor" name="process_monitor" output="screen">
+ </node>
+</launch>
